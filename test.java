@@ -8,6 +8,8 @@ public class test {
 		
 		   System.out.println("my first jenkins - Hi Ponaravindhan");
 		  //System.out.println("Lomaralingam");
+
+		  System.out.println("my first jenkasdasdasd");
 		
 	  }    
 	   
